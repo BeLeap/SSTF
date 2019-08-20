@@ -82,6 +82,6 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
             1. Previlege Software Protection
             2. CPU has memory encryption engine
                 1. every data passed this is encrypted
-                2. 
+                2. Can't be accessed by another things
         5. Remote attestation
-            1. Make sure t
+            1. 
