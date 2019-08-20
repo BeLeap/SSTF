@@ -234,4 +234,12 @@ Best Practice and Lessons Learned from Security Consulting
                 3. 보안 제붐 및 서비스 아니어도 보안성 향상 가능
                     1. 오히려 보안 제품 및 서비스를 적용하여 보인 취약점이 생기는 경우도 있음
 2. Case Study
-    1. 
+    1. Web Service
+        1. 클라이언트 / 서버 취약점
+        2. 자주 발견되는 취약점
+            1. IDOR(사용자 인증 미흡)
+            2. 관리자 / DevOps 노출
+        3. 위협받는것
+            1. 고객 데이터
+            2. 회사자산
+            3. 사내 보안
