@@ -56,7 +56,12 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     1. Can Change Whole Memory's attribute (at once!!!!)
     2. JIT compile
         1. Dependent on mprotect function
-        2. ```function init()
+        2. ```
+             function init()
                 pkey = pkey_alloc()
-                pkey_mprotect(code_cache, len, RWX, pkey)```
+                pkey_mprotect(code_cache, len, RWX, pkey)
+            ```
         3. number of pkey <= 16
+        4. Another CPU's pkey is not updated
+        5. Key Virtualization
+            1. Physical Key -> Software Key
