@@ -184,7 +184,7 @@ Best Practice and Lessons Learned from Security Consulting
     1. Location
         1. Austin / Seoul
     2. Customers
-        1. Golbal Corporate
+        1. Global Corporate
         2. Cryptocurrency
         3. Financial
         4. Game Publisher
