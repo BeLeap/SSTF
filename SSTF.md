@@ -26,3 +26,10 @@ Building Trust through Security
         </tr>
     </tbody>
 </table>
+
+Building Trustworthy Software Foundation with Hardware Security Mechanisms
+------------------------------------------------------
+
+1. Moore's law -> 삼보에서 2년 뒤 업그레이드 제공
+2. Extensions
+    1. Hardware -> Software
