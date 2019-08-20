@@ -315,3 +315,8 @@ Best Practice and Lessons Learned from Security Consulting
                         return 0;
                     }
                     ```
+        8. 배운 점
+            1. 지속적인 업데이트
+            2. SSDLC 적용
+            3. 양산 시 테스팅 / 디버깅 비활성화
+            4. OTA 업데이트
