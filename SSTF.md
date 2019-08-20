@@ -320,3 +320,4 @@ Best Practice and Lessons Learned from Security Consulting
             2. SSDLC 적용
             3. 양산 시 테스팅 / 디버깅 비활성화
             4. OTA 업데이트
+                1. 없으면 리콜해야함
