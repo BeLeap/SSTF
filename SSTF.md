@@ -418,6 +418,7 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
                 <br/> -> Detect vulnerabilities of Open Source 24hours!
             2. Tizen package number(600 ~ 700)
                 <br/> -> 수동으로 불가능
+
                 | Automatic build | Scalable testing |
                 |---:|---:|
                 |1. APIs<br>2. Libraries<br/> -> Automatically build fuzzer ||
@@ -428,3 +429,4 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
                     2. IP Analyzer
             2. Valuable Tweets
                 1. find related to vulnerabilities
+                2. Crawling(related Vulnerability)
