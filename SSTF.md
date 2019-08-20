@@ -421,7 +421,7 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
 
                 | Automatic build | Scalable testing |
                 |---:|---:|
-                <tr><td colspan='2'>1. APIs<br>2. Libraries<br/> -> Automatically build fuzzer </td></tr>
+                | 1. APIs<br>2. Libraries<br/> -> Automatically build fuzzer |
         2. Find Outer Threat
             1. Thread Analysis
                 1. OSINT
