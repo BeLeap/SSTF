@@ -97,6 +97,10 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                         1. Tor project analysis what relay is attacked and remove the node
                 4. Solving
                     1. Use SGX
+                        1. Tagging attack
+                            ***
+                            Even if I selected trustable middle relay but end can know my information
+                        2. Bandwidth attack
                 5. Pros
                     1. Only one trusted node can ensure protected packet
                     2. Seals information with SGX
