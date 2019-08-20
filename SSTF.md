@@ -39,3 +39,4 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     5. Last Level Cache, prefetch, TSX, etc -> (위의 3개는 Performance를 위해 디자인된 Extension)
 3. TSX
     1. ```if(xbegin() == XBEGIN_STARTED) {*kptr; //exception -> abort xend();}```
+    2. 방어로 할용 : 예상되지 않은 Abort가 발생할 경우 공격이 발생했다고 판단
