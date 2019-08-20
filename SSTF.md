@@ -438,4 +438,8 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     2. Many People == Many Vulnerabilities?
     3. More efficient Testing <br/> -> 더 적은 인원
     4. 비슷한 취약점이 자주 보임
-    5. 이행점검(자주 나오는 취약점을 테스트)
+    5. 이행점검(자주 나오는 취약점을 테스트 <br/> -> 더 적은 취약점
+    7. 자동화, 지능화
+        1. 자주 나오는 취약점이 비슷한 카테고리에서 나타남
+        2. 실제 해킹팀은 어려운 취약점만을 테스트
+        3. 더 적은 시간을 요구함
