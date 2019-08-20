@@ -378,8 +378,10 @@ Best Practice and Lessons Learned from Security Consulting
     8. Share Information
 Reasearches and Activities for Offensive Security in Samsung Research
 ----------------------------------------------
-1. Smartphone / Wearable / Smart Devices / 5G / IoT
-    1. Security
-        1. Knox
-    2. | Defensive Security | Offensive Security |
-        |---:|---:|
+Smartphone / Wearable / Smart Devices / 5G / IoT
+1. Security
+    1. Knox
+2. | Defensive Security | Offensive Security |
+    |---:|---:|
+3. Offensive Security at Samsung Research?
+    1. 
