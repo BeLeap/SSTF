@@ -65,3 +65,6 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
         4. Another CPU's pkey is not updated
         5. Key Virtualization
             1. Physical Key -> Software Key
+            2. libmpk
+                1. OS get CPU's memory give up
+                    1. change Memory's attribute
