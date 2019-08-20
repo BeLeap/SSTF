@@ -61,7 +61,7 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     1. Can Change Whole Memory's attribute (at once!!!!)
     2. JIT compile
         1. Dependent on mprotect function
-        2. ```
+        2. ```javascript
              function init()
                 pkey = pkey_alloc()
                 pkey_mprotect(code_cache, len, RWX, pkey)
@@ -276,3 +276,14 @@ Best Practice and Lessons Learned from Security Consulting
                     //....
                     ```
             2. 권한 분리 및 필터링
+    2. Embedded System
+        1. 주요 공격 기법
+            1. 소프트웨어 취약점
+            2. 하드웨어 디버깅
+        2. 자주 발견되는 추약점
+            1. Deprecated OS, Software
+            2. 디버깅 핀 노출
+        3. 위협받는 것
+            1. 탈옥
+            2. 개인정보 유출
+        4. 
