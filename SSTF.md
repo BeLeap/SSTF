@@ -38,7 +38,12 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     4. Hyper-Threads, Store Buffer, etc -> (MDS-class atatcks)
     5. Last Level Cache, prefetch, TSX, etc -> (위의 3개는 Performance를 위해 디자인된 Extension)
 3. TSX
-    1. ```if(xbegin() == XBEGIN_STARTED) {*kptr; //exception -> abort xend();}```
+    1. ```C
+        if(xbegin() == XBEGIN_STARTED) {
+            *kptr; //exception -> abort
+            xend();
+            }
+        ```
     2. 방어로 할용 : 예상되지 않은 Abort가 발생할 경우 공격이 발생했다고 판단
 4. Intel PT
     1. Made for Debugging
@@ -250,7 +255,7 @@ Best Practice and Lessons Learned from Security Consulting
         5. 예제 2
             1. .html(innerHTML) 렌더링으로 인한 XSS발생
                 1. Vue.js
-                    ```
+                    ```javascript
                     <p>
                         Your notes:
                         <span v-html="notes"></span>
@@ -260,7 +265,7 @@ Best Practice and Lessons Learned from Security Consulting
         6. 예제 3
             1. whereRaw SQl  Injection
                 1. Node.js
-                    ```
+                    ```javascript
                     const result = awit knex
                         .select(knex.raw(selectClause))
                         .select(selectColumns)
