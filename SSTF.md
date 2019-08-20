@@ -68,3 +68,9 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
             2. libmpk
                 1. OS get CPU's memory give up
                     1. change Memory's attribute
+        6. JIT protection
+            1. libmpk
+                1. Enhanced Performance
+                2. Enhanced Security
+6. Root of Trust based on Hardware
+    1.
