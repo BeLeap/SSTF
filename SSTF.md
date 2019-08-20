@@ -375,3 +375,5 @@ Best Practice and Lessons Learned from Security Consulting
     4. Continuous Risk Assessment
     5. Risk Management
     6. Invest in Security
+    7. Babystep(하나씩 해나감)
+    8. Share Information
