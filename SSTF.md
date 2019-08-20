@@ -96,4 +96,6 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                     3. Some Agencys are having effecton massive amount of Tor network
                         1. Tor project analysis what relay is attacked and remove the node
                 4. Solving
-                    1. 
+                    1. Use SGX
+                5. Pros
+                    1. Only one trusted node can ensure protected packet
