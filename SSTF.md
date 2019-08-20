@@ -376,7 +376,7 @@ Best Practice and Lessons Learned from Security Consulting
     6. Invest in Security
     7. Babystep(하나씩 해나감)
     8. Share Information
-    
+
 Reasearches and Activities for Offensive Security in Samsung Research
 ----------------------------------------------
 Smartphone / Wearable / Smart Devices / 5G / IoT
@@ -395,3 +395,16 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     1. SDL?
         <br/> -> 개발단계에서 수행해야하는 과정을 정의
         1. 일찍 대응할 수록 소요비용이 줄어듦
+    2. 개발 초기 또는 개발 전 단계에서 보안 평가
+    3. SDL 시스템 구축
+        1. 초기
+            1. 다양한 톨 사용으로 인한 혼선
+        2. 현재(SSMS)
+7. Automated Analysis(AVAS)
+    1. Open Source Composition
+    2. git 기반 협업환경
+    3. CVE in Open Source
+    4. git Credential(Ransomware
+    5. CVE Trend
+        1. Automatically find CVE vulnerability
+            1. High Precision
