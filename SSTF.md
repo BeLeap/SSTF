@@ -432,3 +432,10 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
                 2. Crawling(related Vulnerability)
                 3. Early Sense of Pre-NVD
                 4. Store Evnets, Pre-NVD CVEs, Malicious IP/URL
+8. Practical Pen-testing
+    1. Everythings are connected to Network
+        1. Various of Protocols, Devices
+    2. Many People == Many Vulnerabilities?
+    3. More efficient Testing <br/> -> 더 적은 인원
+    4. 비슷한 취약점이 자주 보임
+    5. 이행점검(자주 나오는 취약점을 테스트)
