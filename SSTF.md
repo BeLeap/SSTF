@@ -84,4 +84,5 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                 1. every data passed this is encrypted
                 2. Can't be accessed by another things
         5. Remote attestation
-            1. 
+            1. is Realy running with SGX?(is really Protected?)
+            2. 
