@@ -85,4 +85,5 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                 2. Can't be accessed by another things
         5. Remote attestation
             1. is Realy running with SGX?(is really Protected?)
-            2. 
+            2. Tor
+                1. Protect from traffic analysis
