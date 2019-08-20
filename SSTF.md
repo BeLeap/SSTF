@@ -93,4 +93,7 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                 3. Problems
                     1. If we select trustable relay it can assure it is protected
                     2. but tor relay can't be all trusted
-                        1.
+                    3. Some Agencys are having effecton massive amount of Tor network
+                        1. Tor project analysis what relay is attacked and remove the node
+                4. Solving
+                    1. 
