@@ -453,5 +453,4 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
         1. Defense
             1. 인공지능
             2. 빅데이터
-        2. 자동화와 혼동되고 있는 것은 아닌가?
-        
+        2. 자동화와 혼동되고 있는 것은 아닌가? <br/> -> 지능화되어야함
