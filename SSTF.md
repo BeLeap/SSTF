@@ -173,3 +173,22 @@ Reassembler
         2. Use Case : BiO-ASan
 4. Future Work
     1. Work with Binary analysis tool(B2R2)
+
+Best Practice and Lessons Learned from Security Consulting
+------------------------------------------------
+1. Theori
+    1. Location
+        1. Austin / Seoul
+    2. Customers
+        1. Golbal Corporate
+        2. Cryptocurrency
+        3. Financial
+        4. Game Publisher
+        5. Blockchain
+        6. Operatin System / Browser
+        7. Electronics Manufacturer
+    3. Offensive Security
+        1. Proactive
+        2. Adversarial
+            1. 공격자 관점에서 바라보기
+        3. 
