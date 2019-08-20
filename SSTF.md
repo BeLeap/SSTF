@@ -104,3 +104,5 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                 5. Pros
                     1. Only one trusted node can ensure protected packet
                     2. Seals information with SGX
+7. CPU
+    1. CPU vendors are compete with how secured their processor is
