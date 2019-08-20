@@ -99,3 +99,4 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                     1. Use SGX
                 5. Pros
                     1. Only one trusted node can ensure protected packet
+                    2. Seals information with SGX
