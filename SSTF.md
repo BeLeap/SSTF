@@ -151,7 +151,7 @@ Reassembler
 3. Test
     1. Coreutils-8.30
         1. It works regardless PIE
-        2. overhead
+        2. Overhead
             1. non-PIE
                 < 0.2%
             2. PIE
@@ -449,3 +449,9 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     ***
     Panel Talk
     ----------------------------------------
+    1. AI
+        1. Defense
+            1. 인공지능
+            2. 빅데이터
+        2. 자동화와 혼동되고 있는 것은 아닌가?
+        
