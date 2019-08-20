@@ -224,4 +224,7 @@ Best Practice and Lessons Learned from Security Consulting
             1. 잘 방어 되어있는가
             2. 저렴한 방법
     4. Risk Assessment + Risk Management
-        1. 
+        1. Risk Assessment
+            1. 위협에 대한 수치화
+                1. 공격 가능성
+                2. 피해량
