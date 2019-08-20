@@ -376,6 +376,7 @@ Best Practice and Lessons Learned from Security Consulting
     6. Invest in Security
     7. Babystep(하나씩 해나감)
     8. Share Information
+    
 Reasearches and Activities for Offensive Security in Samsung Research
 ----------------------------------------------
 Smartphone / Wearable / Smart Devices / 5G / IoT
@@ -394,4 +395,3 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     1. SDL?
         <br/> -> 개발단계에서 수행해야하는 과정을 정의
         1. 일찍 대응할 수록 소요비용이 줄어듦
-        
