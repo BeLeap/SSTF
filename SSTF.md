@@ -460,3 +460,4 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     2. 5G
         1. 특이한 분야이다
         2. 정확한 이해를 요구
+        3. 표준에도 취약점이 존재
