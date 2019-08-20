@@ -88,3 +88,5 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
             2. Tor
                 1. Protect from traffic analysis
                 2. Onion Routing
+                    1. Decide what Tor relay to use
+                    2. Tor relays can't understand what the packet is(because it's onion-ed)
