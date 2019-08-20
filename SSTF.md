@@ -455,4 +455,7 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
             2. 빅데이터
         2. 자동화와 혼동되고 있는 것은 아닌가? <br/> -> 지능화되어야함
         3. AI를 이용한 보안?<br/> -> AI의 보안이 되어야함.
+        4. CGC(DARPA)
+            1. Automated Analystics
+        
     2. 5G
