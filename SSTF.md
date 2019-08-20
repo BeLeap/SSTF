@@ -408,3 +408,19 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     5. CVE Trend
         1. Automatically find CVE vulnerability
             1. High Precision
+        2. 얼마나 취약점 코드와 비슷한가? + 휴리스틱
+    6. Credential
+        1. 패턴이 있음
+        2. 하드코딩된 Credential 제거
+    7. Unknown vulnerabilities
+        1. Fuzzing
+            1. oss-fuzz
+                <br/> -> Detect vulnerabilities of Open Source 24hours!
+            2. Tizen package number(600 ~ 700)
+                <br/> -> 수동으로 불가능
+                | Automatic build | Scalable testing |
+                |---:|----:|
+                |1. APIs<br>2. Libraries<br/> -> Automatically build fuzzer ||
+        2. Find Outer Threat
+            1. Thread Analysis
+                1. OSINT
