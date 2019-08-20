@@ -215,3 +215,9 @@ Best Practice and Lessons Learned from Security Consulting
             3. 민감한 자료
             ***
             1. 가장 중요한 자산은?
+        3. 무엇이 노출되어 있는가
+            1. 약점이 무엇인가
+            2. 왜 존재하는가
+        4. 내가 공격자라면 어떻게 침투할 것인가
+            1. 잘 방어 되어있는가
+            2. 저렴한 방법
