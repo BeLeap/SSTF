@@ -116,3 +116,60 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     4. CFG
         1. runtime variance can be traced?
         2. Answer: generally can't be traced
+
+Reassembler
+----------------------------------------
+1. Ordinary Reassembler
+    1. only for static binding binary
+    2. if aslr is adapted it can't symbolize binary
+    3. it works with heuristic way so it could symbolize function incorrect
+2. Reassmbler
+    1.Symbolize
+        1. Abbreviation
+            1. GOT_addr : base addr
+            2. GOT_pointer : &GOT_addr
+            3. GOT_offset : @GOT_OFF
+        3. Symbolize memory
+            1. GOT_pointer trace
+                1. trace GOT_pointer
+                    1. using stack
+                2. calculate where GOT_pointer points to
+                3. symbolize
+        4. Symbolize jump table
+            1. indirect jump
+                1. get Use-Define Chain
+                2. Symbolize jump table entry
+        5. Sybolize lea instructions
+            1. find label
+            2. Symbolize
+    2. Data Memory Layout Preservationi
+        1. Seperate memory
+3. Test
+    1. Coreutils-8.30
+        1. It works regardless PIE
+        2. overhead
+            1. non-PIE
+                < 0.2%
+            2. PIE
+                1.3% ~ 1.5%
+4. BiO-ASan
+    1. Insert Red-Zone(before/after heap)
+    2. Shadow Memory
+        1. 8byte alligned
+        2. stack is 4byte alligned
+        3. Desgined to process these variance
+        4. check Red-Zone is changed
+    3. Use Case
+        1. Overhead
+            1. BiO-ASan
+                350% ~ 450%
+            2. ASan
+                800% ~ 11,500%
+            3. BiO-Asan is more efficient
+3. Conclusion
+    1. Found hint
+    2. Contribution
+        1. Sybolizationi technique
+        2. Use Case : BiO-ASan
+4. Future Work
+    1. Work with Binary analysis tool(B2R2)
