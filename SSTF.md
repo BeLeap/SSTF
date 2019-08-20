@@ -128,7 +128,7 @@ Reassembler
     2. if aslr is adapted it can't symbolize binary
     3. it works with heuristic way so it could symbolize function incorrect
 2. Reassmbler
-    1.Symbolize
+    1. Symbolize
         1. Abbreviation
             1. GOT_addr : base addr
             2. GOT_pointer : &GOT_addr
