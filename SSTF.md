@@ -445,3 +445,7 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
         3. 더 적은 시간을 요구함, 더 나은 취약점을 발견
     8. 컨퍼런스 참여, 대회 개최
     9. White Hat Hacker + Offensive Security -> Red TEAM
+
+    ***
+    Panel Talk
+    ----------------------------------------
