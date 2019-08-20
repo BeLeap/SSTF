@@ -218,7 +218,6 @@ Best Practice and Lessons Learned from Security Consulting
             2. 명예
             3. 민감한 자료
             <br/>-> **가장 중요한 자산은?**
-            ***
         3. 무엇이 노출되어 있는가
             1. 약점이 무엇인가
             2. 왜 존재하는가
