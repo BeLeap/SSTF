@@ -9,4 +9,4 @@
 | Trust : 믿을 수 있다. ||||
 | 다양한 공격 방법 ||||
 | Protection(Knox) |
-| 1. Mobile Attack Vectors |
+| 1. Mobile Attack Vectors -> Use Encryption |
