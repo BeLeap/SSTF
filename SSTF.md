@@ -191,4 +191,27 @@ Best Practice and Lessons Learned from Security Consulting
         1. Proactive
         2. Adversarial
             1. 공격자 관점에서 바라보기
-        3. 
+        3. Creative
+            1. 타겟에 따른 맞춤형 공격
+            2. 새로운 공격기법
+        4. Assistive
+            1. 공격은 최선의 방어
+            2. += Risk Assessment, Risk Management
+        5. Pros
+            1. 공격자 관점에서 검증가능
+            2. 최신 공격 기법
+        6. Cons
+            1. 대응으로 연결되야함 -> 추가적인 노력 필요
+    4. Threat model
+        1. 누가 공격을 하는가
+            1. 개인
+            2. 단체
+            3. 국가
+            4. etc
+            5. 불특정 다수 (e.g. WannaCry, GandCrab)
+        2. 무엇을 얻으려 하는가
+            1. 금전
+            2. 명예
+            3. 민감한 자료
+            ***
+            1. 가장 중요한 자산은?
