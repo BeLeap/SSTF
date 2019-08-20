@@ -421,7 +421,7 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
 
                 | Automatic build | Scalable testing |
                 |---:|---:|
-                ||1. APIs<br>2. Libraries<br/> -> Automatically build fuzzer |
+                |1. APIs<br>2. Libraries<br/> -> Automatically build fuzzer |
         2. Find Outer Threat
             1. Thread Analysis
                 1. OSINT
@@ -430,3 +430,4 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
             2. Valuable Tweets
                 1. find related to vulnerabilities
                 2. Crawling(related Vulnerability)
+                3. Early Sense of Pre-NVD
