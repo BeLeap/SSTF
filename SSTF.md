@@ -446,18 +446,18 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     8. 컨퍼런스 참여, 대회 개최
     9. White Hat Hacker + Offensive Security -> Red TEAM
 
-    ***
-    Panel Talk
-    ----------------------------------------
-    1. AI
-        1. Defense
-            1. 인공지능
-            2. 빅데이터
-        2. 자동화와 혼동되고 있는 것은 아닌가? <br/> -> 지능화되어야함
-        3. AI를 이용한 보안?<br/> -> AI의 보안이 되어야함.
-        4. CGC(DARPA)
-            1. Automated Analystics
-    2. 5G
-        1. 특이한 분야이다
-        2. 정확한 이해를 요구
-        3. 표준에도 취약점이 존재
+***
+Panel Talk
+----------------------------------------
+1. AI
+    1. Defense
+        1. 인공지능
+        2. 빅데이터
+    2. 자동화와 혼동되고 있는 것은 아닌가? <br/> -> 지능화되어야함
+    3. AI를 이용한 보안?<br/> -> AI의 보안이 되어야함.
+    4. CGC(DARPA)
+        1. Automated Analystics
+2. 5G
+    1. 특이한 분야이다
+    2. 정확한 이해를 요구
+    3. 표준에도 취약점이 존재
