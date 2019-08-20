@@ -304,7 +304,7 @@ Best Practice and Lessons Learned from Security Consulting
                     1. Zero-day 취약점 발견
         7. 예제 7
             1. Home Routers RCE via Command Injection
-                1. C(MIPS decompiled)
+                1. C (MIPS decompiled)
                     ```C
                     {
                         //...
