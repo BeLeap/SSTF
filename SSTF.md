@@ -106,3 +106,4 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                     2. Seals information with SGX
 7. CPU
     1. CPU vendors are compete with how secured their processor is
+    2. Even if the feature is not designed for security can used for security(e.g. CFG)
