@@ -115,4 +115,4 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     3. Pkey is preceed on page attribute
     4. CFG
         1. runtime variance can be traced?
-        2. Answer: can't be traced
+        2. Answer: generally can't be traced
