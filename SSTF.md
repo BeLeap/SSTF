@@ -61,3 +61,4 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                 pkey = pkey_alloc()
                 pkey_mprotect(code_cache, len, RWX, pkey)
             ```
+        3. number of pkey <= 16
