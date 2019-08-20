@@ -291,4 +291,13 @@ Best Practice and Lessons Learned from Security Consulting
         3. 위협받는 것
             1. 탈옥
             2. 개인정보 유출
-        4. 
+        4. 예제 1
+            1. 자동차 telemetics 핀 노출
+        5. 예제 2
+            1. 오래된 소프트웨어
+                1. Stagefright + DirtyCOW Full-chai출
+            2. 최신 보안 업데이트, 유지보수
+        6. 예제 3
+            1. Remote Code Execution via Bluetooth
+                1. BlueBorne
+                2. 
