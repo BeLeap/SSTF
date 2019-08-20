@@ -40,3 +40,8 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
 3. TSX
     1. ```if(xbegin() == XBEGIN_STARTED) {*kptr; //exception -> abort xend();}```
     2. 방어로 할용 : 예상되지 않은 Abort가 발생할 경우 공격이 발생했다고 판단
+4. Intel PT
+    1. Made for Debugging
+    2. Can Make Control Flow Graph (Sort of Flow chart?)
+        1. Full trace -> When program is really executed
+        2. There is no need to trace all nodes
