@@ -90,3 +90,7 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                 2. Onion Routing
                     1. Decide what Tor relay to use
                     2. Tor relays can't understand what the packet is(because it's onion-ed)
+                3. Problems
+                    1. If we select trustable relay it can assure it is protected
+                    2. but tor relay can't be all trusted
+                        1.
