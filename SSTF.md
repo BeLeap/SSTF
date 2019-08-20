@@ -389,4 +389,9 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     2. 아기돼지삼형제의 집
         1. 셋째는 늑대에 대비를 함
             <br/>-> 공격자에 대비를 해야함
-5. 
+5. 설계 목적 파악 -> 설계상 보안위협 파악 -> 검증 -> 유지보수
+6. Security Development Life-Cycle
+    1. SDL?
+        <br/> -> 개발단계에서 수행해야하는 과정을 정의
+        1. 일찍 대응할 수록 소요비용이 줄어듦
+        
