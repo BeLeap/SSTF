@@ -73,4 +73,7 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
                 1. Enhanced Performance
                 2. Enhanced Security
 6. Root of Trust based on Hardware
-    1.
+    1. SGX(Software Guard Extensions)
+        1. x86 ISA
+        2. Native performance
+        3. Already Using Generally
