@@ -17,7 +17,6 @@ Building Trust through Security
             <th> BIg Data </th>
             <th> IoT </th> 
         </tr>
-        <tr></tr>
         <tr>
             <th>Trust </th>
             <th> Protection (Knox) </th>
@@ -377,3 +376,6 @@ Best Practice and Lessons Learned from Security Consulting
     6. Invest in Security
     7. Babystep(하나씩 해나감)
     8. Share Information
+Reasearches and Activities for Offensive Security in Samsung Research
+----------------------------------------------
+1. 
