@@ -385,3 +385,8 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
     |---:|---:|
 3. Offensive Security at Samsung Research?
 4. Unexpected Attack
+    1. 0-day vulnerability
+    2. 아기돼지삼형제의 집
+        1. 셋째는 늑대에 대비를 함
+            -> 공격자에 대비를 해야함
+5. 
