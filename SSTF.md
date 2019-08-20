@@ -54,3 +54,10 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
             2. So we only trace the code can be attacked(e.g. read, write)
 5. Intel Memory Protection
     1. Can Change Whole Memory's attribute (at once!!!!)
+    2. JIT compile
+        1. Dependent on mprotect function
+        2. ```
+            function init()
+                pkey = pkey_alloc()
+                pkey_mprotect(code_cache, len, RWX, pkey)
+            ```
