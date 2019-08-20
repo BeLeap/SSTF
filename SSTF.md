@@ -37,3 +37,5 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     3. Meltdown, Spectre (Speculative Execution / Out-of-order Execution)
     4. Hyper-Threads, Store Buffer, etc -> (MDS-class atatcks)
     5. Last Level Cache, prefetch, TSX, etc -> (위의 3개는 Performance를 위해 디자인된 Extension)
+3. TSX
+    1. if(xbegin() == XBEGIN_STARTED) { *kptr; //exception -> abort<br/> xend(); <br/>> }
