@@ -44,4 +44,4 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     1. Made for Debugging
     2. Can Make Control Flow Graph (Sort of Flow chart?)
         1. Full trace -> When program is really executed
-        2. There is no need to trace all nodes
+        2. There is no need to trace all nodes -> PT trace
