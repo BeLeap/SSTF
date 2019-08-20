@@ -270,4 +270,4 @@ Best Practice and Lessons Learned from Security Consulting
                         .whereRaw(`DATE(UPLOADED_TIME) <= '${toTime}'`)
                     //....
                     ```
-                
+            2. 권한 분리 및 필터링
