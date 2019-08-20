@@ -300,4 +300,18 @@ Best Practice and Lessons Learned from Security Consulting
         6. 예제 3
             1. Remote Code Execution via Bluetooth
                 1. BlueBorne
-                2. 
+                2. Braodcom Stack
+                    1. Zero-day 취약점 발견
+        7. 예제 7
+            1. Home Routers RCE via Command Injection
+                1. C(MIPS decompiled)
+                    ```C
+                    {
+                        //...
+                        // acStack1044 contains user-controlled string
+                        sVar2 = strlen(acStack1044);
+                        snprintf(acStack1044 + sVar2, 0x400 - sVar2, " &");
+                        util_execSystem("oal_startping", acStack1044);
+                        return 0;
+                    }
+                    ```
