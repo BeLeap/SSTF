@@ -384,4 +384,4 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
 2. | Defensive Security | Offensive Security |
     |---:|---:|
 3. Offensive Security at Samsung Research?
-    1. 
+4. Unexpected Attack
