@@ -36,3 +36,4 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     2. 최근 Extension은 Security에 영향을 미침
     3. Meltdown, Spectre (Speculative Execution / Out-of-order Execution)
     4. Hyper-Threads, Store Buffer, etc -> (MDS-class atatcks)
+    5. Last Level Cache, prefetch, TSX, etc -> (위의 3개는 Performance를 위해 디자인된 Extension)
