@@ -226,3 +226,12 @@ Best Practice and Lessons Learned from Security Consulting
             1. 위협에 대한 수치화
                 1. 공격 가능성
                 2. 피해량
+            2. Risk Management
+                1. 어떻게 관리해야할까
+                    1. 현실적인 위협모델 작성
+                    2. 위협경로별 관리방법 업데이트
+                2. 적절한 투자
+                3. 보안 제붐 및 서비스 아니어도 보안성 향상 가능
+                    1. 오히려 보안 제품 및 서비스를 적용하여 보인 취약점이 생기는 경우도 있음
+2. Case Study
+    1. 
