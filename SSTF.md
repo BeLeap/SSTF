@@ -457,5 +457,6 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
         3. AI를 이용한 보안?<br/> -> AI의 보안이 되어야함.
         4. CGC(DARPA)
             1. Automated Analystics
-        
     2. 5G
+        1. 특이한 분야이다
+        2. 정확한 이해를 요구
