@@ -77,3 +77,6 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
         1. x86 ISA
         2. Native performance
         3. Already Using Generally
+        ***
+        4. Isolated execution
+        5. Remote attestation
