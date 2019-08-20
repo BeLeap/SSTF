@@ -283,6 +283,11 @@ Best Practice and Lessons Learned from Security Consulting
         2. 자주 발견되는 추약점
             1. Deprecated OS, Software
             2. 디버깅 핀 노출
+            3. 원격 접근 벡터
+                1. Wi-Fi
+                2. Bluetooth
+                3. 원격 업데이트
+                4. etc
         3. 위협받는 것
             1. 탈옥
             2. 개인정보 유출
