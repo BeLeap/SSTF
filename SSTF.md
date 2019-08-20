@@ -34,4 +34,5 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
 2. Extensions
     1. Hardware -> Software
     2. 최근 Extension은 Security에 영향을 미침
-    3. Meltdown, Spectre
+    3. Meltdown, Spectre (Speculative Execution / Out-of-order Execution)
+    4. Hyper-Threads, Store Buffer, etc -> (MDS-class atatcks)
