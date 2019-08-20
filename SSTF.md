@@ -239,8 +239,35 @@ Best Practice and Lessons Learned from Security Consulting
         2. 자주 발견되는 취약점
             1. IDOR(사용자 인증 미흡)
             2. 관리자 / DevOps 노출
+            3. Parsing
         3. 위협받는것
             1. 고객 데이터
             2. 회사자산
             3. 사내 보안
-        
+        4. 예제 1
+            1. 관리자 권한 외부 노출(SSO 로그인 Host 검증 미흡으로 인한 관리자 권한 획득)
+            2. 도메인 인증이 없음
+        5. 예제 2
+            1. .html(innerHTML) 렌더링으로 인한 XSS발생
+                1. Vue.js
+                    ```
+                    <p>
+                        Your notes:
+                        <span v-html="notes"></span>
+                    </p>
+                    ```
+            2. 어떠한 값이 렌더링 되는지 검증해야함
+        6. 예제 3
+            1. whereRaw SQl  Injection
+                1. Node.js
+                    ```
+                    const result = awit knex
+                        .select(knex.raw(selectClause))
+                        .select(selectColumns)
+                        .rom(talbe)
+                        .where(whereClause)
+                        .whereRaw(`DATE(UPLOADED_TIME) >= '${fromTime}'`)
+                        .whereRaw(`DATE(UPLOADED_TIME) <= '${toTime}'`)
+                    //....
+                    ```
+                
