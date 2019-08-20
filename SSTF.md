@@ -107,3 +107,8 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
 7. CPU
     1. CPU vendors are compete with how secured their processor is
     2. Even if the feature is not designed for security can used for security(e.g. CFG)
+8. Question
+    1. flexable protection
+    2. CFG
+        1. especially for remote(-> dependent on environment)
+            1. trace only when return
