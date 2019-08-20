@@ -52,3 +52,5 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
         3. PT work asyncronosly
             1. We can know what code is vulnarable
             2. So we only trace the code can be attacked(e.g. read, write)
+5. Intel Memory Protection
+    1. Can Change Memory's attribute
