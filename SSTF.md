@@ -49,3 +49,6 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
         1. CFG? -> When compiled?? The node can be linked? 
             1. if node can't be linked is linked : Decide the execution is attack!
         2. More Precison == Comsume More time when compile
+        3. PT work asyncronosly
+            1. We can know what code is vulnarable
+            2. So we only trace the code can be attacked(e.g. read, write)
