@@ -112,3 +112,4 @@ Building Trustworthy Software Foundation with Hardware Security Mechanisms
     2. CFG
         1. especially for remote(-> dependent on environment)
             1. trace only when return
+    3. Pkey is preceed on page attribute
