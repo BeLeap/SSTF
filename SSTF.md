@@ -431,3 +431,4 @@ Smartphone / Wearable / Smart Devices / 5G / IoT
                 1. find related to vulnerabilities
                 2. Crawling(related Vulnerability)
                 3. Early Sense of Pre-NVD
+                4. Store Evnets, Pre-NVD CVEs, Malicious IP/URL
